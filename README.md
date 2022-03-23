@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I'm working as a Data Scientist at</h3>
 <div align="center"><a href="https://www.trtworld.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/TRT_World_logo.svg" width="200" height="200"></img></a></div>
+
 - 🔭 I’m currently working on **Natural Language Processing, Speech Recognition and Recommendation Engines** applications.
 - 🌱 I'm currently improving myself in **Tensorflow and PyTorch**
 
